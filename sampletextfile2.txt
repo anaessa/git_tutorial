@@ -1,2 +1,0 @@
-sampletextfile2
-second line
